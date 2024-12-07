@@ -11,7 +11,11 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      colors: {
+        lama:"#F35C7A",
+      },
     },
+    
   },
   plugins: [],
 };
