@@ -60,8 +60,8 @@ const CartModal = () => {
                                 Lorem ipsum dolor, sit amet consectetur .
                             </p>
                             <div className="flex justify-between text-sm"> 
-                                <burron className="rounded-md py-3 px-4 ring-1 ring-gray-300">View Card </burron>
-                                <burron className="rounded-md py-3 px-4 bg-black text-white">CheckOut</burron>
+                                <button className="rounded-md py-3 px-4 ring-1 ring-gray-300">View Card </button>
+                                <button className="rounded-md py-3 px-4 bg-black text-white">CheckOut</button>
                             </div>
                         </div>
                     </>
